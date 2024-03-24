@@ -15,5 +15,9 @@ The main problem with the recent increase in the popularity of vapes is that the
 
 Therefore, considering the popularity that vapes have nowadays and the truly detrimental effects on the human body, we thought that it would be an interesting idea to focus our project on developing a health campaign aimed at diminishing the use of vapes. Additionally, considering our current situation as university students and the fact that college students are amongst the individuals that vape the most, at least in the US, we decided to establish as the campaign focus the University of Pennsylvania and its undergraduate students and graduate students. 
 
+![DALL·E-2024-03-24-19 16](https://github.com/yummyhopper/anti_vaping_campaign/assets/80358822/fd47585d-5ba7-43f5-8fdb-4928ae37bf7d)
+Source: ChatGPT 4.0. Prompt: Generate an image for the anti-vaping campaign focused on the University of Pennsylvania. 
+
+
 
 ## Repository Structure
