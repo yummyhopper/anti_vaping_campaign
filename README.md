@@ -19,6 +19,22 @@ Therefore, considering the popularity that vapes have nowadays and the truly det
 ![DALL·E-2024-03-24-19 16](https://github.com/yummyhopper/anti_vaping_campaign/assets/80358822/fd47585d-5ba7-43f5-8fdb-4928ae37bf7d)
 Source: ChatGPT 4.0. Prompt: Generate an image for the anti-vaping campaign focused on the University of Pennsylvania. 
 
+## Important Points 
 
+In order to clarify how the project was developed, as well as its overall structure, we decided to list the most relevant topics that a reader needs to know to understand the work developed. 
+
+**Health Behavior**
+
+- Vaping/Smoking electronic cigarettes
+- We chose vaping as the topic of our project because, amongst our initial ideas, vaping seemed the most ubiquituos one. Also, since we are inserted into a reality where a significant amount of people vape, we thought that the content that we would develop could be employ to assist people that are, like us, college students or simply young people. 
+
+**Target Audience**:
+
+- College students and high school students between 16-25 years old.
+- The decision to choose this specific target audience came from the fact that after conducting a brief research on the topic, we were able to identify that this is perhaps the audience that is mostly affected by vaping. Also, we wanted to specificy the population to college and high school students since we fit in one of these categories, and we can attest that within our social and academic circles, vaping is certainly a common practice.
+
+****
+
+**Generative AI used**: Since we wanted to generate images that would represent the answers generate by the 
 
 ## Repository Structure
