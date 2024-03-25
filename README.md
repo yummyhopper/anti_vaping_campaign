@@ -33,6 +33,29 @@ In order to clarify how the project was developed, as well as its overall struct
 - College students and high school students between 16-25 years old.
 - The decision to choose this specific target audience came from the fact that after conducting a brief research on the topic, we were able to identify that this is perhaps the audience that is mostly affected by vaping. Also, we wanted to specificy the population to college and high school students since we fit in one of these categories, and we can attest that within our social and academic circles, vaping is certainly a common practice.
 
+**Generative AI Used**:
+
+- ChatGPT 4.0
+- We decide the LLM ChatGPT 4.0 for our project for the main reason that it is currently one of the most powerful LLMs in the market, and also because of the fact that it is able to generate and analyze images, as well as written text, which is crucial for our project idea.
+
+**Communication Concept Utilized**
+
+- Elaboration Likelihood Model
+- One of the communication concepts that we used to develop our work was the Elaboration Likelihood Model, also known as ELM within the field of communication. The ELM was initially developed in the in the of the 20th century and its main goal was to provide a way to evaluate how persuasive communication can cause a change in the receiver's attitudes. The model affirms that there are two main route through which persuasive communication act: the central route ad the peripheral route.
+The central route is usually employed when the person receiving the message has the ability to think and reason on what he the content that he is absorbing. Thus, whatever change in attitude that it can generate tends to be more enduring and persevere on its person. Meanwhile, the peripheral route is regarded as the one vinculated to the receiver's feelings and spontaneous acts. Once they receive the message, they interpret solely on how the message affected or interfered with its non-rational mind.
+Besides from being quite similar to the concept that our mind is divided into 2 systems introduced by Daniel Kahneman, we decided to use ELM in our prompts so that ChatGPT's varies in generating answers that are more and less rational and that affect our route in a different way. In summary, we made sure that the LLM was implementing the concept, and asked for it to focus on different routes according to the message. 
+
+**Messaging Venue/Style**
+
+- Social Media texts/videos.
+- Since our target audience is mostly composed by young individuals, we decided to focus the prompts and the project in general on generating and evaluating messages designed to be displayed on social media such as TikTok, Instagram, and X, as well as developing texts that fit the language utilized in such platforms. 
+
+**Contrasting Framing**
+
+- Gain vs Loss
+- For the main contrasting framing of our project, we decided to choose the Gain vs Loss frame, as we thought that it would be quite interesting to evaluate how ChatGPT would respond to having to generate texts that are framed for loss and gain in terms of vaping. Also, we wanted to see how its safety parameters would affect the generation of texts that might insinuate that vaping can have positive effects on people. 
+
+
 ****
 
 **Generative AI used**: Since we wanted to generate images that would represent the answers generate by the 
