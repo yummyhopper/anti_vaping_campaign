@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c24eafb-d8ba-4fca-9bff-920c4920a597" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/loss_frame_storyboards/Assets/lossframestoryboards.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/loss_frame_scenes/lossframestoryboards.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loss_frame_scenes/lossframestoryboards.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711327801392</updated>
       <workItem from="1711327802641" duration="1756000" />
-      <workItem from="1711332530066" duration="396000" />
+      <workItem from="1711332530066" duration="564000" />
     </task>
     <servers />
   </component>
