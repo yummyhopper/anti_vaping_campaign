@@ -1,4 +1,3 @@
-# Gain vs Loss Frame Campaigns
 
 ---
 
@@ -6,11 +5,13 @@
 
 <figure style="width:50%; float: left">
     <figcaption><b>Scene 1:</b> Two teens are introduced; one is shown vaping, the other is applying a face mask as part of a skincare routine. The split-screen emphasizes the difference in choices.</figcaption>
+
     <img src="generated_img_1.scene1.png"/>
 </figure>
 
 <figure style="width:50%; float: left">
     <figcaption><b>Scene 2:</b> Progression over time is shown; the vaping teen starts to show skin issues, while the non-vaping teen's skin visibly improves, glowing and clear.</figcaption>
+
     <img src="generated_img_1.scene2.png"/>
 </figure>
 
@@ -22,12 +23,13 @@
 
 <figure style="width:50%; float: left">
     <figcaption><b>Scene 4:</b> The final reveal shows the non-vaping teen smiling, taking a selfie with flawless skin, while the text overlay says, “Clear skin wins! #NoVapeVibes.”</figcaption>
+
     <img src="generated_img_1.scene4.png"/>
 </figure>
 
 ---
 
-## Idea 2. **"The Breath of Fresh Air" Sports Challenge**
+# Idea 2. **"The Breath of Fresh Air" Sports Challenge**
 
 <figure style="width:50%; float: left">
     <figcaption><b>Scene 1:</b> Introduction of two groups of teens: athletes who vape and those who don’t, gearing up for a friendly race or sports challenge.</figcaption>
@@ -52,7 +54,9 @@
 
     <img src="generated_img_2.scene4.png"/>
 </figure>
+
 ---
+
 # Idea 3. **The Creativity Unleashed Video**
 
 <figure style="width:50%; float: left">
@@ -78,7 +82,9 @@
 
     <img src="generated_img_3.scene4.png"/>
 </figure>
+
 ---
+
 # Idea 4. **The "Future Dreams" Montage**
 
 <figure style="width:50%; float: left">
@@ -104,7 +110,9 @@
 
     <img src="generated_img_4.scene4.png"/>
 </figure>
+
 ---
+
 # Idea 5. **The Social Butterfly Effect Video**
 
 <figure style="width:50%; float: left">
