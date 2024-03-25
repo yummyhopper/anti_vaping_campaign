@@ -1,4 +1,4 @@
-# Gain vs Loss Frame campaigns
+# Gain Frame campaigns
 
 
 ---
