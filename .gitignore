@@ -180,3 +180,10 @@ cython_debug/
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+vcs.xml
+workspace.xml
+misc.xml
+profiles_settings.xml
+Project_Default.xml
+*.swp
