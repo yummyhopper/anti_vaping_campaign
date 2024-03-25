@@ -1,4 +1,7 @@
+# Gain vs Loss Frame Campaigns
+
 ---
+
 # Idea 1. **The "Clear Skin Challenge" Video**
 
 <figure style="width:50%; float: left">
