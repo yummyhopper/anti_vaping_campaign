@@ -55,9 +55,3 @@ Besides from being quite similar to the concept that our mind is divided into 2 
 - Gain vs Loss
 - For the main contrasting framing of our project, we decided to choose the Gain vs Loss frame, as we thought that it would be quite interesting to evaluate how ChatGPT would respond to having to generate texts that are framed for loss and gain in terms of vaping. Also, we wanted to see how its safety parameters would affect the generation of texts that might insinuate that vaping can have positive effects on people. 
 
-
-****
-
-**Generative AI used**: Since we wanted to generate images that would represent the answers generate by the 
-
-## Repository Structure
